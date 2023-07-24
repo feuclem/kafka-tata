@@ -1,3 +1,5 @@
+To learned how kafka works !
+
 Access to console :
 - docker exec -it "CONTAINER_ID" /bin/bash
 - cd /bin
